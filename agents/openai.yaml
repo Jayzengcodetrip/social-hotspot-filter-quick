@@ -1,0 +1,4 @@
+interface:
+  display_name: "热点新闻（快速版）"
+  short_description: "完整采集九个来源并排名，保留原始标题链接，不补充检索、不写事件概述"
+  default_prompt: "使用 $social-hotspot-filter-quick 给我最新热点快速版：完整采集九个核心来源，按跨平台数和命中数排名，保留原始标题链接，不做额外补充检索与核实，不写事件概述。"
